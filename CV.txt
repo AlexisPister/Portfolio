@@ -1,0 +1,16 @@
+- Education
+2019 - 2022: PhD in Data Visualisation, Paris-Saclay University, France
+2016 - 2019: Bioinformatics Engineer Degree, INSA Lyon, France
+
+
+- Experiences
+2023 - 2025: Data Visualisation Research Engineer, University of Edinburgh
+
+- Projects
+ComBiNet: Visual Queries for bipartite graphs
+Vistorian: Network Visualisation web platform
+
+- Hobbies
+Piano
+Bouldering
+Reading
