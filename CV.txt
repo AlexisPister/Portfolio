@@ -6,9 +6,12 @@
 - Experiences
 2023 - 2025: Data Visualisation Research Engineer, University of Edinburgh
 
+
 - Projects
+PK-Clustering
 ComBiNet: Visual Queries for bipartite graphs
 Vistorian: Network Visualisation web platform
+
 
 - Hobbies
 Piano
